@@ -3,9 +3,13 @@
 # compiled output
 /dist
 /tmp
-/logs
-/gradle
-.g8
+logs/
+target/
+
+# gradle
+gradle/
+.g8/
+*.iml
 
 # dependencies
 /node_modules
